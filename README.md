@@ -1,13 +1,10 @@
 # Discord SelfBot Nuker
 
 ```cs
-import discord
-import colorama
-from colorama import Fore as Color
-from colorama import Style
-import requests
-import os
-import datetime
-import inputimeout
-from inputimeout import inputimeout, TimeoutOccurred
+pip install discord
+pip install colorama
+pip install requests
+pip install os
+pip install datetime
+pip install inputimeout
 ```
